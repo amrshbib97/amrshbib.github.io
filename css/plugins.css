@@ -2272,7 +2272,7 @@ input[type="button"]{
 }
 .arlo_tm_news_wrap .definitions_wrap {
     padding: 20px ;
-	height: 400px;
+	/* height: 450px; */
 }.arlo_tm_news_wrap .definition {
     margin-bottom: 26px;
 
